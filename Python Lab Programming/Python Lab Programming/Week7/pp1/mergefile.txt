@@ -1,0 +1,6 @@
+Anvi
+This is the first file.
+It contains some text.
+Hamsi
+This is the second file.
+It also contains more text.

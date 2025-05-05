@@ -1,0 +1,3 @@
+Hamsi
+This is the second file.
+It also contains more text.
